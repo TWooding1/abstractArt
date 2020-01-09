@@ -9,6 +9,7 @@ public:
     void setup();
     void draw();
     void update();
+    int randomColour;
 };
 
 #endif /* Rectangles_hpp */
